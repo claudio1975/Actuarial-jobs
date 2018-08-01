@@ -1,4 +1,4 @@
-# GLM-GNM-and-GAM-Approaches-on-MTPL-pricing
+# Insurance jobs
 This job has the goal to compare a GLM, traditional approach used in MTPL pricing, with GAM and GNM approaches, both in univariate analysis and multivariate analysis.
 
 GAM approach is flexible to fit data with more risk coefficients and low level of residual deviance, but quite complex to realize, so it could be used in identifying the model before using GLM.
