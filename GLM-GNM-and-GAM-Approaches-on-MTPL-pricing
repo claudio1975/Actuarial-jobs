@@ -11,7 +11,8 @@ an helps coming from cluster analysis, as k-means used, has granted more risk co
 
 GNM is an upgrade of GLM model, it grants some elaborations that GLM can't replicate and with lower values compared to it.
 
-Look at the paper: [http://www.ss-pub.org/jmss/glm-gnm-and-gam-approaches-on-mtpl-pricing/]
+Look at the paper: http://www.ss-pub.org/jmss/glm-gnm-and-gam-approaches-on-mtpl-pricing/
+
       
       
 
