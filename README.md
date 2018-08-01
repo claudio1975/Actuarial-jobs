@@ -1,2 +1,2 @@
-# Actuarial jobs
+# Actuarial researches
 This folder has several actuarial research jobs done on my self or in collaboration with others
