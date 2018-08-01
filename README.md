@@ -3,7 +3,7 @@ This job has the goal to compare a GLM, traditional approach used in MTPL pricin
 
 GAM approach is flexible to fit data with more risk coefficients and low level of residual deviance, but quite complex to realize, so it could be used in identifying the model before using GLM.
 
-This last one instead is user-friendly with faster elaboration but with poor flexibility to fit data, an helps come from cluster analysis, as k-means used, that it has granted more risk coefficients.
+This last one instead is user-friendly with faster elaboration but with poor flexibility to fit data, an helps coming from cluster analysis, as k-means used, has granted more risk coefficients.
 
 GNM is an upgrade of GLM model, it grants some elaborations that GLM can't replicate and with lower values compared to it.
 
